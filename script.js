@@ -125,7 +125,9 @@ var _ngrProduct = function (xp) {
   };
 
 /* 
-
+  
+  // Alpha Vantage ::  https://www.alphavantage.co/query?function=SECTOR&apikey=52DCT7KVVJXBU7VT
+  
 var Todo = $resource('https://rdb-simpledb.restdb.io/rest/contact/:id');
 
 // create new record
